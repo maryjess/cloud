@@ -1,6 +1,7 @@
 # Quarterly Plan
 * Project Schedule mapped out week-by-week for an entire Q (ie 12 months/4 = 3-monthly-plan)
 * To outline goals and plan development
+* Gets the idea flowing
 
 ```
 plan = {
