@@ -20,7 +20,7 @@ Deeply integrated to other Services, e.g.:
 
 ---
 
-# How to open the Cloud9 console?
+# How to access the Dashboard Page of AWS?
 1. Google "AWS Cloud9 Console"
 2. Sign in to AWS Account
 3. Sign in using your particulars (choose Root User account if this is your first time)
