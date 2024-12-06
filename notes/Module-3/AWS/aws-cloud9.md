@@ -17,3 +17,16 @@ Traffic is much faster
 Deeply integrated to other Services, e.g.: 
 * Can deeply integrate with cloud Lambda environment (Serverless capability)
 * Can deeply integrate with running command line tools
+
+---
+
+# How to open the Cloud9 console?
+1. Google "AWS Cloud9 Console"
+2. Sign in to AWS Account
+3. Sign in using your particulars (choose Root User account if this is your first time)
+	* Usually, use Microsoft Authenticator or other Auth app for MFA
+4. Make sure you're on the `AWS Management Console` tab, and you're good to go!
+
+---
+
+> No internet, video bookmark is at 2:08 (AWS Cloud9)
