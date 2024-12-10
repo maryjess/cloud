@@ -29,4 +29,6 @@ Deeply integrated to other Services, e.g.:
 
 ---
 
-> No internet, video bookmark is at 2:08 (AWS Cloud9)
+> No internet, video bookmark is at 2:08 (AWS Cloud9) 
+
+# I feel like butuh Practical juga :<
