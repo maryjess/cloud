@@ -1,4 +1,4 @@
-# Cloud Dev with Azure Cloud Shell
+# Cloud Development with Azure Cloud Shell
 
 * Azure got highly connected data centers with Shell environment. 
 * Inside Shell, got access for:
