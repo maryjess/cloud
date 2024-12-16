@@ -1,6 +1,7 @@
 # Azure Cloud Shell Continuous Integration from Zero
 
-## Create Virtual Environment named `scaffold` in home directory
+## Create Virtual Environment named `scaffold` in home directory (if not already done so)
+If virtual environment is already created, skip this step
 ```
 python3 -env venv ~/.scaffold
 ```
@@ -10,12 +11,12 @@ python3 -env venv ~/.scaffold
 source ~/.scaffold/bin/activate
 ```
 
-Terminal will now show smth like
+Terminal will now show something like
 ```
 (.scaffold) jessica $
 ```
 
-## Create SSH Keys
+## Create SSH Keys (if not already done so)
 ```
 ssh-keygen -t rsa
 ```
@@ -34,16 +35,15 @@ cat /home/jessica/.ssh/id_rsa.pub
 
 > Can work with any file too, it is a bash command
 
-## Connect SSH Key to GitHub
+## Connect SSH Key to GitHub (if not already done so)
 1. Go to GitHub Profile > Settings > SSH and GPG Keys
 2. Add new key
 3. Title `azure-scaffold`
 4. Key should be the one printed using `cat`
 
-## Connect back the SSH Key from GitHub to Azure
+## Clone the Scaffold Repo from Git (if not already done so)
 ```
 git clone git@github.com:maryjess/scaffold.git
 ```
 
 When prompted "Are you sure you want to continue connecting?", type `yes`
-
