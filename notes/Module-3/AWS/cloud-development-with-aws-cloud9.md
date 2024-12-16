@@ -27,6 +27,9 @@ Deeply integrated to other Services, e.g.:
 	* Usually, use Microsoft Authenticator or other Auth app for MFA
 4. Make sure you're on the `AWS Management Console` tab, and you're good to go!
 
+Alternatively, access this URL:
+
+
 ---
 
 > No internet, video bookmark is at 2:08 (AWS Cloud9) 
