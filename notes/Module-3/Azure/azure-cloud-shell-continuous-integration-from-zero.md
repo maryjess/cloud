@@ -40,4 +40,10 @@ cat /home/jessica/.ssh/id_rsa.pub
 3. Title `azure-scaffold`
 4. Key should be the one printed using `cat`
 
-!! Make sure the repo `scaffold` is ready for use
+## Connect back the SSH Key from GitHub to Azure
+```
+git clone git@github.com:maryjess/scaffold.git
+```
+
+When prompted "Are you sure you want to continue connecting?", type `yes`
+
