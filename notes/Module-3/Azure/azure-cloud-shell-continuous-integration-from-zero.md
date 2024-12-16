@@ -40,4 +40,4 @@ cat /home/jessica/.ssh/id_rsa.pub
 3. Title `azure-scaffold`
 4. Key should be the one printed using `cat`
 
-!! Make sure the repo `scaffold` is ready for useg
+!! Make sure the repo `scaffold` is ready for use
